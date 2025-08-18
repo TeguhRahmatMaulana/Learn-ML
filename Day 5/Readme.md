@@ -1,0 +1,5 @@
+Learn Basic on Phyton D5
+
+This is my day five to learn Phyton
+in this segment. I learn about aritmethic calculation and simple calculation for temperature
+This Language was full in bahasa
